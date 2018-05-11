@@ -1,0 +1,32 @@
+/* add your CSS here */
+
+div {
+    border: 1px solid #d3d3d3; 
+    padding: 0 10px 10px 10px;
+}
+.container{
+    margin: 0 auto;
+    width: 300px;
+    box-shadow: 5px 5px #d3d3d3;
+    
+}
+
+.details{
+    margin-top: 10px;
+}
+
+ul{
+    padding:0;
+}
+
+li{
+    list-style-type: none;
+}
+
+span{
+    font-weight: bold;
+}
+
+.fact{
+    font-style: italic;
+}
